@@ -1,0 +1,24 @@
+.image{
+    height:100px;
+    margin:9px
+}
+.bg-container{
+    background-color: antiquewhite;
+    padding:30px;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.logout-button {
+    background-color: #4f46e5;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    border: none;
+    color: #fff;
+    margin-top: 10px;
+    cursor: pointer;
+  }
